@@ -1,0 +1,23 @@
+story
+    2  df -kh
+    3  cat/etc/ssh/sshd_config
+    4  cat /etc/ssh/sshd_config
+    5  service sshd status
+    6  netstat -tulpn
+    7  ps -aef |grep 4052
+    8  ps -aef |grep 4452
+    9  who i am
+   10  passwd
+   11  pwd
+   12  ls -lrt
+   13  ls -lart
+   14  yum install git -y
+   15  cd /opt/
+   16  mkdir -p /opt/gitdemo
+   17  pwd
+   18  cd gitdemo/
+   19  pwd
+   20  git init
+   21  vi linuxcmd.txt
+   22  history
+
