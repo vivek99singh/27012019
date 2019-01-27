@@ -1,4 +1,12 @@
-story
+25  git status
+   26  pwd
+   27  ll
+   28  git add
+   29  git add .
+   30  ll
+   31  git status
+   32  git commit -m"myfirstcommit"
+   33  git statusstory
     2  df -kh
     3  cat/etc/ssh/sshd_config
     4  cat /etc/ssh/sshd_config
